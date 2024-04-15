@@ -3,15 +3,15 @@
 
 <!--### [Portfolio](https://purvesh.me) -->
 
-### Computer Vision Developer
+### Full Stack Developer
 
 ⚐ Based in Canada
 
 ϟ 👨‍🎓 Recent graduate from Masters in Applied Computer Science Student @ <a href="https://www.dal.ca/">Dalhousie University</a>.
 
-🌱  Exploring field of **Computer Vision**, **Machine Learning**, **Data Science**, **Cloud Computing** and **Software Developer**.<br/>
+🌱  Exploring field of **Software Developer**, **Machine Learning**, **Computer Vision Developer**, **Cloud Computing** and **Data Science**.<br/>
 
-💬 Ask me about Computer Vision, Machine Learning, Cloud Computing, and Python programming.<br/>
+💬 Ask me about Software Development, Computer Vision, Machine Learning, Cloud Computing, and Python programming.<br/>
 
 📫 How to reach me? **kenilpatel121200@gmail.com**<br/>
 
