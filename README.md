@@ -13,7 +13,7 @@
 
 💬 Ask me about Software Development, Computer Vision, Machine Learning, Cloud Computing, and Python programming.<br/>
 
-📫 How to reach me? **kenilpatel121200@gmail.com**<br/>
+📫 How to reach me? **Kenil.Patel@dal.ca**<br/>
 
 <h3>Connect with me:</h3>
   
