@@ -1,11 +1,6 @@
 
 # Hi, I'm Kenil Patel
 
-<!--### [Portfolio](https://purvesh.me) -->
-
-### Full Stack Developer
-
-⚐ Based in Canada
 
 ϟ 👨‍🎓 Recent graduate from Masters in Applied Computer Science Student @ <a href="https://www.dal.ca/">Dalhousie University</a>.
 
